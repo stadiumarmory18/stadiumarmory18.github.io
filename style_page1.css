@@ -32,5 +32,5 @@ body {
 .navbar > ul {
   display: flex;
   list-style-type: none;
-  ga[: 40px;
+  gap: 40px;
 }
