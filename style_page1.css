@@ -23,7 +23,10 @@ body {
   left: 0;
   right: 0;
   padding: 16px 32px;
-  background-color: black;
+}
+
+.navbar-dark {
+  background: black;
 }
 
 .navbar > ul {
