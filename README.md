@@ -1,1 +1,2 @@
-# stadiumarmory18.github.io
+# programming stuff for the website
+# dont bother asking
